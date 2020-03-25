@@ -1,0 +1,50 @@
+<!--#include file="header.html" -->
+<TITLE>Brochure &bull; Atlantic Counselling Services</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<meta name="description" content="Atlantic Counselling Services offers guidance to those whose quality of life 
+have deteriorated because of addiction and/or mental health issues. Therapeutic services are offered on an individual and
+group basis.">
+<meta name="keywords" content="social work, newfoundland, mount pearl, st. john's, therapy, group therapy, individual therapy, 
+social worker, counselling, counseling, counsellor,substance abuse, alcohol abuse">
+<!--#include file="header-bottom.html" -->
+        <!-- End Header -->
+        <!-- Balnk Space -->
+        <tr bgcolor="#FFFFFF"> 
+          <td width=142 height=149 valign="top"> 
+            <p></p>
+        
+        <div class="withborder">
+		 
+          </td>
+
+          <td width=686 height=299 colspan=3 valign="top" bgcolor="#FFFFFF" rowspan="3"> 
+            <p>&nbsp;</p>
+            
+           <blockquote>
+				<center>
+					<p><b>Atlantic Counselling Services Brochure</b></p>
+				</center>
+				<p>Click the thumbnials to view as images</p>
+				<a href="images/brochure/b1.jpg" style="border:1px solid #000; padding:5px; margin:0 20px 0 0;display:inline-block;"><img src="images/brochure/b1-thumb.jpg" alt="brochure-front" /></a>
+				<a href="images/brochure/b2.jpg" style="border:1px solid #000; padding:5px; display:inline-block;"><img src="images/brochure/b2-thumb.jpg" alt="brochure-back" /></a>
+				
+				<br /><br />
+				<a href="images/brochure/atlantic-counselling-brochure.pdf">Download Brochure | PDF File</a>
+				<br /><small>(requires Acrobat Reader, which you can <a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">get here</a>)</small>
+
+			</blockquote>
+			
+			
+			<!-- Bottom Quote -->
+			
+           <br /><br />
+			<div align="center"> 
+              <blockquote class="withquote"> 
+                <p>When one door of happiness closes, another opens&hellip;.but often we look so long at the closed door that we do not see the one that has been opened for us</p>
+                <p align="right"> &ndash; Helen Keller
+                </p>
+                <p align="right">&nbsp;</p>
+              </blockquote>
+
+<!--#include file="footer.html" -->
+<!--#include file="rnav.html" -->
